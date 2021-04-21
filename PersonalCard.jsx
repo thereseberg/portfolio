@@ -16,11 +16,11 @@ function PersonalCard() {
                             <br />
                         </div>
                         <div className="icon-stack">
-                            <a className="icon-link" href="https://www.linkedin.com/in/therese-berg/"><i id="linkedin-img" className="fa fa-linkedin-square" aria-hidden="true"></i></a>
+                            <a className="icon-link" href="https://www.linkedin.com/in/therese-berg/" target="_blank"><i id="linkedin-img" className="fa fa-linkedin-square" aria-hidden="true"></i></a>
                         </div>
                         <br />
                         <div className="icon-stack">
-                            <a className="icon-link" href="https://github.com/thereseberg"><i id="github-img" className="fa fa-github-square" aria-hidden="true" ></i></a>
+                            <a className="icon-link" href="https://github.com/thereseberg" target="_blank"><i id="github-img" className="fa fa-github-square" aria-hidden="true" ></i></a>
                         </div>                    
                     </div>
                 </div>

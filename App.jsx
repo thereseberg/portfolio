@@ -3,6 +3,7 @@ function App() {
       <div>
         <Header />
         <PersonalCard />
+        <Projects />
       </div>
     );
 }
