@@ -4,7 +4,7 @@ function PersonalCard() {
             <div className="flip-card">
                 <div className="flip-card-inner">
                     <div className="flip-card-front">
-                        <img id="profile-picture" src="profilepic.jpg" />
+                        <img id="profile-picture" src="images/profilepic.jpg" />
                         <h5 className="h5-name">Therese Berg</h5>
                         <p className="net-title">.NET Developer</p>
                     </div>
