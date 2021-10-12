@@ -3,6 +3,9 @@ function App() {
       <div>
         <Header />
         <PersonalCard />
+        <Projects />
+        <About />
+        <Footer />
       </div>
     );
 }
