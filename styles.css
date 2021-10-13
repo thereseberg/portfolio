@@ -65,14 +65,18 @@ li:hover{
 
 .link-about {
     color: white;
+    opacity: none !important;
+    font-weight: bold;
 }
 
 .link-about:hover{
-    opacity: 1;
-    color: white;
+    opacity: none !important;
+    color: silver;
     font-weight: bold;
     text-decoration: none;
 }
+
+
 
 .icon-container {
     margin-top: 36px;   
