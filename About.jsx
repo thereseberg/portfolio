@@ -9,8 +9,8 @@ function About() {
                         My name is Therese Majlund and I'm a .NET-student residing in Nynäshamn studying at Nackademin.
                         <br/><br/>
                         C#/.NET and backend have a special place in my heart but I also have experience with JS and React. 
-                        You can see some of the things I've worked on over on my <a className="link-about" href="https://github.com/tmajlund">GitHub page</a>.
-                        <br/> 
+                        You can see some of the things I've worked on over on my <a className="link-about" href="https://github.com/tmajlund">GitHub.</a>
+                        <br/><br/>
                         You can also find me on <a className="link-about" href="https://www.linkedin.com/in/therese-majlund/">LinkedIn</a>.
                     </div>                
                 </div>
